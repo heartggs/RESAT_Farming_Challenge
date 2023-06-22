@@ -127,4 +127,5 @@ window.onload = () => {
   taskCount = 0;
   displayCount(taskCount);
   newTaskInput.value = "";
+  allTasksBtn.style.color = "#5a95ff";
 };
